@@ -23,7 +23,8 @@ obj/local/armeabi/objs/TestNdk/com_ndk_test_JniClient.o: \
  D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
  D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
  D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/memory.h \
- D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdio.h
+ D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdio.h \
+ D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/sources/android/cpufeatures/cpu-features.h
 
 jni/com_ndk_test_JniClient.h:
 
@@ -74,3 +75,5 @@ D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/pl
 D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/memory.h:
 
 D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdio.h:
+
+D:/baideyi/工具/编程/java/android/android-ndk-r9d-windows-x86/android-ndk-r9d/sources/android/cpufeatures/cpu-features.h:

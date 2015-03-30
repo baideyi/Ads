@@ -4,5 +4,6 @@
     <string name="app_name">Ads</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
 
 </resources>
